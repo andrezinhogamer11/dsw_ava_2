@@ -1,6 +1,6 @@
 # dsw_ava_2
 
-**Nome:** André Mardula Feto 
+**Nome:** André Mardula Neto
 **Data:** 06/05/2025  
 **Unidade Curricular:** Desenvolvimento de Sistemas Web
 
