@@ -1,0 +1,15 @@
+{
+    "name": "andre.neto1/dsw_ava_2",
+    "autoload": {
+        "psr-4": {
+            "AndreNeto1\\DswAva2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrezinhogamer11",
+            "email": "andremardulaneto1@gmail.com"
+        }
+    ],
+    "require": {}
+}
